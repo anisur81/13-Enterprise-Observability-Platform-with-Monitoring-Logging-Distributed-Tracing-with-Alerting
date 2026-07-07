@@ -10,7 +10,7 @@
 - [Grafana Integration](#grafana-integration)
 - [Fluent Bit Installation](#fluent-bit-installation)
 - [Fluent Bit Pipeline Explained](#fluent-bit-pipeline-explained)
-- [Configuration Reference](#configuration-reference)
+ 
 
 ## 🚀 Prerequisites
 - Kubernetes cluster (v1.19+)
